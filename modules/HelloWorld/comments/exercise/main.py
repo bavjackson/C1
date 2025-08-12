@@ -1,3 +1,2 @@
-# add a comment
 print("Hello World!")
 
